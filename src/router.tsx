@@ -5,7 +5,7 @@ import App from "./App.tsx";
 
 function Router() {
 return (
-    <BrowserRouter>
+    <BrowserRouter basename="/jr-cosmeticos">
      <Routes>
      <Route element={<Layout />}>
      <Route path="/" element={<App />} />
