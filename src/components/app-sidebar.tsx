@@ -1,4 +1,4 @@
-import { Home, Settings, Contact } from "lucide-react"
+import { Home, Contact } from "lucide-react"
 
 import {
   Sidebar,
